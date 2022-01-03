@@ -41,7 +41,9 @@ expo r -c
 Link: https://github.com/Danieladd9/UnityBySnap
 
 Instructions:
-
+1. Login with
+Username: test@gmail.com
+Password: abcdef
 2. Press the leftmost tab, Snap Map.
 3. Explore! If ever unsure about how to proceed, tap anywhere.
 
