@@ -3,22 +3,23 @@
 Description:
 This application is a design-focused prototype of "Unity by Snap", a Snapchat feature I pitched to Snap's Chief Communication Officer, Julie Henderson. Unity is focused on educating users on racial injustices and connecting them to non-profit organizations that can help them make a difference.
 
+## Short Demo
+Link: https://youtu.be/MHExwnvIKV4
+
+## 5 Minute Pitch
+Link: https://youtu.be/7l0tOqPzJ0E
+
 ## App Experience
-### Intro modal:
-<img src="assets/readme/IntroFrameDemo.png" height="400" />
 
-### Bitmoji Walkthough (educates users):
-<img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" />
+Intro Modal | Bitmoji Walkthrough (Educates Users) | Organization Bio (connects users):
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="assets/readme/IntroFrameDemo.png" height="400" /> | <img src="assets/readme/BitmojiWalkthroughDemo.gif" height="400" /> | <img src="assets/readme/CoCoFrameDemo.png" height="400" />
 
-### Organization Bio (connects users):
-<img src="assets/readme/CoCoFrameDemo.png" height="400" />
+## Fun Technical Aspects
 
-## Cool Technical Aspects
-### Maps API
-<img src="assets/readme/MapDemo.gif" height="400" />
-
-### Organization Bio Slide Up (and map movement)
-<img src="assets/readme/CoCoDemo.gif" height="400" />
+Maps API | Organization Bio Slide Up (and map movement)
+:-------------------------:|:-------------------------:
+<img src="assets/readme/MapDemo.gif" height="400" /> | <img src="assets/readme/CoCoDemo.gif" height="400" />
 
 ## To Run
 
@@ -40,16 +41,12 @@ expo r -c
 Link: https://github.com/Danieladd9/UnityBySnap
 
 Instructions:
-1. Login with
-
-Username: test@gmail.com
-
-Password: abcdef
 
 2. Press the leftmost tab, Snap Map.
 3. Explore! If ever unsure about how to proceed, tap anywhere.
 
 ## Tools Used
+
 1. React Native (https://reactnative.dev/)
 2. Expo (https://expo.dev/)
 3. React Native Maps (https://github.com/react-native-maps/react-native-maps)
@@ -59,3 +56,12 @@ Password: abcdef
 7. React Native Gifted Chat (https://github.com/FaridSafi/react-native-gifted-chat)
 8. Google Firebase Firestore (https://firebase.google.com/docs/firestore)
 9. Google Firebase Authentication (https://firebase.google.com/docs/auth)
+
+## Additional Slides
+
+<img src="assets/readme/AdditionalSlides/snap_revision.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision2.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision3.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision4.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision5.png" height="500" />
+<img src="assets/readme/AdditionalSlides/snap_revision6.png" height="500" />
